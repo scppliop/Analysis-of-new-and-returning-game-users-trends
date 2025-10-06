@@ -1,6 +1,6 @@
 # 🎮 Analysis of New and Returning A Game Users Trends
 
-**Analysis Date:** April 30, 2022
+**Analysis Date:** April 30, 2022.
 
 ---
 
